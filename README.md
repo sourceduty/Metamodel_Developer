@@ -14,6 +14,12 @@ Beyond just answering questions, the GPT also helps troubleshoot issues and opti
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Process Diagram](https://github.com/sourceduty/Process_Diagram)
+<br>
+[Process Automation](https://github.com/sourceduty/Process_Automation)
+<br>
+[Topology Optimize](https://github.com/sourceduty/Topology_Optimize)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
