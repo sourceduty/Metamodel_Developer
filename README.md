@@ -11,6 +11,13 @@ In interactions, the GPT takes a technical yet approachable tone, making complex
 Beyond just answering questions, the GPT also helps troubleshoot issues and optimize the design of metamodels. Whether users are facing specific challenges or seeking to enhance the overall structure of their metamodels, the GPT provides targeted support. This makes it an invaluable tool for anyone involved in metamodel development, from beginners to experienced practitioners.
 
 #
+### Meta Structures
+
+The "meta" in metamodelling refers to a higher level of abstraction that focuses on the models themselves rather than the systems or phenomena those models represent. In other words, while a model is a representation of a system, a metamodell is a model of a model. This meta-level approach allows practitioners to define and analyze the rules, structures, and relationships that govern the creation, use, and interpretation of models. By working at this higher level, metamodelling provides a framework for ensuring that models are consistent, interoperable, and aligned with the intended purposes, making it possible to manage the complexity of modeling in a systematic way.
+
+Metamodelling differs in that it is concerned with the structures and frameworks that define how models themselves are created and understood. It operates at a higher level of abstraction compared to these other practices, focusing on the relationships between models and the rules that govern their construction and interpretation. While the other concepts deal with the representation or recreation of specific systems or processes, metamodelling provides the foundation for understanding and managing the models that represent those systems. This makes it a crucial tool for ensuring consistency and coherence across different modeling efforts, particularly in complex or interdisciplinary domains.
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
