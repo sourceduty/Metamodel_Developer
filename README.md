@@ -64,6 +64,12 @@ Data (Level 0)
 [Process Automation](https://github.com/sourceduty/Process_Automation)
 <br>
 [Topology Optimize](https://github.com/sourceduty/Topology_Optimize)
+<br>
+[Theory](https://github.com/sourceduty/Theory)
+<br>
+[Math](https://github.com/sourceduty/Math)
+<br>
+[Theoretical Modelling](https://github.com/sourceduty/Theoretical_Modelling)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
