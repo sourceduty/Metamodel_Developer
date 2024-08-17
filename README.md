@@ -37,19 +37,19 @@ Moreover, metamodeling abstraction is essential in enabling scalability and adap
 
 Metamodeling Abstraction Levels
 ```
-- Metamodel (Level 3)
+Metamodel (Level 3)
 - Describes the structure and rules of the model
 - Defines the language and semantics of models
 
-- Model (Level 2)
+Model (Level 2)
 - Represents a specific instance within the framework of the metamodel
 - Used to describe aspects of a system or domain
 
-- Instance (Level 1)
+Instance (Level 1)
 - Concrete example or implementation of the model
 - Represents real-world entities or components based on the model
 
-- Data (Level 0)
+Data (Level 0)
 - Actual data or values corresponding to the instances
 - Forms the lowest level of abstraction, representing specific details
 ```
